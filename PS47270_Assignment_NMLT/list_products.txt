@@ -1,0 +1,11 @@
+STT,Tên sản phẩm,Thương hiệu,Giá (VNĐ),Số lượng
+1,Laptop Gaming Acer Nitro 5,Acer,19500000,5
+2,MacBook Pro M3 Max 14 inch,Apple,79990000,2
+3,Dell XPS 15 9530,Dell,45000000,3
+4,HP Pavilion 15 eg3093TU,HP,16500000,10
+5,Asus ROG Zephyrus G14,Asus,38000000,4
+6,Lenovo ThinkPad X1 Carbon Gen 11,Lenovo,42000000,6
+7,MSI Katana 15 B13V,MSI,22000000,8
+8,MacBook Air M2 13 inch,Apple,26000000,12
+9,Acer Swift Go 14,Acer,15000000,7
+10,Gigabyte G5 MF,Gigabyte,18000000,9

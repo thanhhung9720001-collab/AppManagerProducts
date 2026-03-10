@@ -1,0 +1,37 @@
+[
+    {
+        "product_name": "Laptop Gaming Acer Nitro 5",
+        "brand": "Acer",
+        "price": 19500000,
+        "inventory": 10,
+        "ID": "LT01"
+    },
+    {
+        "product_name": "MacBook Pro M3 Max 14 inch",
+        "brand": "Apple",
+        "price": 79990000,
+        "inventory": 2,
+        "ID": "LT02"
+    },
+    {
+        "product_name": "Dell XPS 15 9530",
+        "brand": "Dell",
+        "price": 45000000,
+        "inventory": 3,
+        "ID": "LT03"
+    },
+    {
+        "product_name": "HP Pavilion 15 eg3093TU",
+        "brand": "HP",
+        "price": 16500000,
+        "inventory": 4,
+        "ID": "LT04"
+    },
+    {
+        "product_name": "HP XBS 16",
+        "brand": "HP",
+        "price": 50000000,
+        "inventory": 6,
+        "ID": "LT05"
+    }
+]
